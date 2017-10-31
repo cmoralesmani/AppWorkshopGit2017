@@ -13,7 +13,8 @@ namespace AppWorkshopGit2017
         {
             InitializeComponent();
 
-            MainPage = new AppWorkshopGit2017.MainPage();
+            MainPage = new NavigationPage(
+                new AppWorkshopGit2017.MainPage());
         }
 
         protected override void OnStart()
