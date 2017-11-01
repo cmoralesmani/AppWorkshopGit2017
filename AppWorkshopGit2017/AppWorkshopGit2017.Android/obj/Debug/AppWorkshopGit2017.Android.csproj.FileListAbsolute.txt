@@ -49,3 +49,4 @@ C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\res\drawable\git_logo.png
