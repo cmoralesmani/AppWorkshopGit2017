@@ -21,16 +21,18 @@ namespace AppWorkshopGit2017
         protected override void OnAppearing()
         {
             base.OnAppearing();
-            ListaTemas temas = new ListaTemas();
-            ListTemas.ItemsSource = temas._temas;
-            ListTemas.ItemSelected += ListTemas_ItemSelected;
+
+            AgendaViewModel agenda = new AgendaViewModel();
+            //ListaTemas temas = new ListaTemas();
+            ListViewAgenda.ItemsSource = agenda._Agenda;
+            ListViewAgenda.ItemSelected += ListViewAgenda_ItemSelected;
         }
 
-        private async void ListTemas_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        private async void ListViewAgenda_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             if(e.SelectedItem != null)
             {
-                var element = e.SelectedItem as Tema;
+                var element = e.SelectedItem as Agenda;
                 await DisplayAlert("Listas", element.Descripcion,"Aceptar");
             }
         }

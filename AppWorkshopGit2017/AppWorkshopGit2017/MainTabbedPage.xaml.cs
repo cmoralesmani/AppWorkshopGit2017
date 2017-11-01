@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppWorkshopGit2017.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,7 +16,7 @@ namespace AppWorkshopGit2017
         public MainTabbedPage()
         {
             InitializeComponent();
-
+            
             Children.Add(new AgendaPage());
             Children.Add(new ExpositoresPage());
             Children.Add(new FeedbackPage());
