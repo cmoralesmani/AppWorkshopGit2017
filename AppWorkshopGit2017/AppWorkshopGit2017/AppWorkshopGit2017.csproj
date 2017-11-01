@@ -57,6 +57,7 @@
     <Compile Include="Models\Item.cs" />
     <Compile Include="Models\ItemAgenda.cs" />
     <Compile Include="Models\ItemTemario.cs" />
+    <Compile Include="Models\RestClient\RootObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\RestClient.cs" />
     <Compile Include="TemarioPage.xaml.cs">

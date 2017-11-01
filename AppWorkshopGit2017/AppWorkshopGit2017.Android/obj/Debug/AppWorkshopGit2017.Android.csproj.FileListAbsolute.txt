@@ -106,3 +106,7 @@ C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\bin\Debug\Messier16.Forms.Droid.Controls.Checkbox.dll.mdb
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Messier16.Forms.Controls.Checkbox.dll.mdb
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Messier16.Forms.Droid.Controls.Checkbox.dll.mdb
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\bin\Debug\AppWorkshopGit2017.Android.dll.config
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\bin\Debug\AppWorkshopGit2017.dll.config
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\bin\Debug\Newtonsoft.Json.xml

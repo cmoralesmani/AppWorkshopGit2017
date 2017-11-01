@@ -1,4 +1,6 @@
 ﻿using AppWorkshopGit2017.Models;
+using AppWorkshopGit2017.Models.RestClient;
+using AppWorkshopGit2017.Repositories;
 using AppWorkshopGit2017.ViewModels;
 using System;
 using System.Collections.Generic;
@@ -22,7 +24,7 @@ namespace AppWorkshopGit2017
         protected override void OnAppearing()
         {
             base.OnAppearing();
-
+            
             AgendaViewModel agenda = new AgendaViewModel();
             ListViewAgenda.ItemsSource = agenda._Agenda;
         }
