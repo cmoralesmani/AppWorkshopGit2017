@@ -18,7 +18,7 @@ namespace AppWorkshopGit2017
             InitializeComponent();
             
             Children.Add(new AgendaPage());
-            Children.Add(new ExpositoresPage());
+            Children.Add(new TemarioPage());
             Children.Add(new FeedbackPage());
         }
     }

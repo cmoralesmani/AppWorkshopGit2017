@@ -58,8 +58,8 @@
       <DependentUpon>MainTabbedPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SuscritosPage.xaml.cs">
-      <DependentUpon>SuscritosPage.xaml</DependentUpon>
+    <Compile Include="TemarioPage.xaml.cs">
+      <DependentUpon>TemarioPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="ViewModels\AgendaViewModel.cs" />
     <Compile Include="ViewModels\Tema.cs" />
@@ -101,12 +101,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="SuscritosPage.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="ExpositoresPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
@@ -120,6 +114,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainTabbedPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TemarioPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>
