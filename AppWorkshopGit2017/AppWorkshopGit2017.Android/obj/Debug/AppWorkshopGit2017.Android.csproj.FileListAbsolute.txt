@@ -102,3 +102,7 @@ C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\bin\Debug\Messier16.Forms.Controls.Checkbox.dll.mdb
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\bin\Debug\Messier16.Forms.Droid.Controls.Checkbox.dll.mdb
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Messier16.Forms.Controls.Checkbox.dll.mdb
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Messier16.Forms.Droid.Controls.Checkbox.dll.mdb

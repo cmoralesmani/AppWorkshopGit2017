@@ -10,14 +10,9 @@
                     WinPhone="12,10,12,10">
         </OnPlatform>
     </ContentPage.Padding>
-    <StackLayout>
-        <TableView Intent="Form">
-            <TableRoot>
-                <TableSection Title="Registro">
-                    <EntryCell Label="Email" Keyboard="" x:Name="EntryEmail"></EntryCell>
-                    <SwitchCell Text="Capturar" x:Name="SwitchSave"></SwitchCell>
-                </TableSection>
-            </TableRoot>
-        </TableView>
+    <StackLayout Margin="10,12">
+        <Label Text="Que le pareció el Workshop?"></Label>
+        <Picker x:Name="PickerPuntaje"></Picker>
+        <Button x:Name="ButtonEnviar" Clicked="ButtonEnviar_Clicked"></Button>
     </StackLayout>
 </ContentPage>

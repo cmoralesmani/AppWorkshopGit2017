@@ -9,6 +9,7 @@
             <Label Text="Workshop de Git 2017" FontSize="Large" HorizontalTextAlignment="Center"></Label>
         </StackLayout>
         <Entry x:Name="EntryEmail"
+               Keyboard="Email"
                Placeholder="Ingresa tu email"></Entry>
         <Button x:Name="ButtonEnviar"
                 Text="Enviar"
