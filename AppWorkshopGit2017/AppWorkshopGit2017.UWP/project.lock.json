@@ -17437,7 +17437,7 @@
       ]
     },
     "System.Collections.Specialized/4.0.1": {
-      "sha512": "/HKQyVP0yH1I0YtK7KJL/28snxHNH/bi+0lgk/+MbURF6ULhAE31MDI+NZDerNWu264YbxklXCCygISgm+HMug==",
+      "sha512": "pqK+t8ofKZqQpc/NAQM+EkvU/jbDxEAZnJTm78FgYDinVIqbaxYo+56TUHX2PUKExgGym7C2/l9zX3SR06uTUA==",
       "type": "package",
       "path": "system.collections.specialized/4.0.1",
       "files": [
@@ -17676,7 +17676,7 @@
       ]
     },
     "System.Data.Common/4.1.0": {
-      "sha512": "epU8jeTe7aE7RqGHq9rZ8b0Q4Ah7DgubzHQblgZMSqgW1saW868WmooSyC5ywf8upLBkcVLDu93W9GPWUYsU2Q==",
+      "sha512": "L+EU6Jzsjk4AKv1+j1/yW/tv7w0gO2ZZPW0DKG/hxSGjvIVmjau6gQXiZ5fol85X7a4mbZ4jRx96/HiX/j4Xwg==",
       "type": "package",
       "path": "system.data.common/4.1.0",
       "files": [
@@ -22259,19 +22259,19 @@
     "UAP,Version=v10.0.10586": []
   },
   "packageFolders": {
-    "C:\\Users\\Cesar Morales\\.nuget\\packages\\": {}
+    "C:\\Users\\cmorales\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cesar Morales\\Documents\\Visual Studio 2017\\Projects\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.UWP\\AppWorkshopGit2017.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\cmorales\\Downloads\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.UWP\\AppWorkshopGit2017.UWP.csproj",
       "projectName": "AppWorkshopGit2017.UWP",
-      "projectPath": "C:\\Users\\Cesar Morales\\Documents\\Visual Studio 2017\\Projects\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.UWP\\AppWorkshopGit2017.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Cesar Morales\\Documents\\Visual Studio 2017\\Projects\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.UWP\\project.json",
-      "packagesPath": "C:\\Users\\Cesar Morales\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cesar Morales\\Documents\\Visual Studio 2017\\Projects\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.UWP\\obj\\",
+      "projectPath": "C:\\Users\\cmorales\\Downloads\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.UWP\\AppWorkshopGit2017.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\cmorales\\Downloads\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.UWP\\project.json",
+      "packagesPath": "C:\\Users\\cmorales\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cmorales\\Downloads\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "C:\\Users\\Cesar Morales\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cmorales\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "sources": {
@@ -22281,8 +22281,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\Cesar Morales\\Documents\\Visual Studio 2017\\Projects\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.csproj": {
-              "projectPath": "C:\\Users\\Cesar Morales\\Documents\\Visual Studio 2017\\Projects\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.csproj"
+            "C:\\Users\\cmorales\\Downloads\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.csproj": {
+              "projectPath": "C:\\Users\\cmorales\\Downloads\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017\\AppWorkshopGit2017.csproj"
             }
           }
         }

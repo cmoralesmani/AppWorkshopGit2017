@@ -15,9 +15,9 @@ namespace AppWorkshopGit2017
             InitializeComponent();
         }
         
-        private void btnEnviar_Clicked(object sender, EventArgs e)
+        private void ButtonEnviar_Clicked(object sender, EventArgs e)
         {
-            var email = txtEmail.Text;
+            var email = EntryEmail.Text;
             if (!string.IsNullOrEmpty(email))
             {
                 Intent intent = new Intent(this, new NavigationPage( new MainTabbedPage()));

@@ -3,15 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:AppWorkshopGit2017"
              x:Class="AppWorkshopGit2017.MainPage">
-    <StackLayout Padding="10,12">
-        <StackLayout Orientation="Horizontal">
+    <StackLayout Padding="10,12" VerticalOptions="Center">
+        <StackLayout Orientation="Horizontal" Padding="0,0,0,30" HorizontalOptions="Center">
             <Image Source="git_logo.png" WidthRequest="30" HeightRequest="30"></Image>
-            <Label Text="Workshop de Git 2017" FontSize="Large"></Label>
+            <Label Text="Workshop de Git 2017" FontSize="Large" HorizontalTextAlignment="Center"></Label>
         </StackLayout>
-        <Entry x:Name="txtEmail"
+        <Entry x:Name="EntryEmail"
                Placeholder="Ingresa tu email"></Entry>
-        <Button x:Name="btnEnviar"
+        <Button x:Name="ButtonEnviar"
                 Text="Enviar"
-                Clicked="btnEnviar_Clicked"></Button>
+                Clicked="ButtonEnviar_Clicked"></Button>
     </StackLayout>
 </ContentPage>
