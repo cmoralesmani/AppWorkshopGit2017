@@ -3,17 +3,28 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppWorkshopGit2017.AgendaPage"
              Title="Agenda">
-    <ListView x:Name="ListViewAgenda" ItemSelected="ListViewAgenda_ItemSelected">
+    <ListView x:Name="ListViewAgenda" 
+              ItemTapped="ListViewAgenda_ItemTapped" 
+              HasUnevenRows="True">
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell>
-                    <StackLayout Padding="{Binding Padding}" Orientation="Vertical" VerticalOptions="Center">
-                        <StackLayout Orientation="Horizontal" VerticalOptions="Center">
-                            <Label Text="{Binding Id}" VerticalOptions="Center"></Label>
-                            <Label Text="{Binding Nombre}" VerticalOptions="Center"></Label>
-                            <Label Text="{Binding Hora}" VerticalOptions="Center"></Label>
+                    <Grid Padding="{Binding Padding}" VerticalOptions="CenterAndExpand">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Row="0" Grid.Column="0" Text="{Binding Id}" FontAttributes="Bold" VerticalOptions="Center" Rotation="-2"/>
+                        <Label Grid.Row="0" Grid.Column="1" Text="{Binding Nombre}" FontAttributes="Bold" VerticalOptions="Center" LineBreakMode="WordWrap"/>
+                        <StackLayout Grid.Row="1" Grid.Column="1" Orientation="Horizontal" Rotation="-1">
+                            <Label Text="Hora:" VerticalOptions="Center"></Label>
+                            <Label Text="{Binding HoraString}" VerticalOptions="Center"></Label>
                         </StackLayout>
-                    </StackLayout>
+                    </Grid>
                 </ViewCell>
             </DataTemplate>
         </ListView.ItemTemplate>

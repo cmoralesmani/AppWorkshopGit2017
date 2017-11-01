@@ -36,7 +36,6 @@ C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.App.xaml.g.cs
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.AgendaPage.xaml.g.cs
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.HomePage.xaml.g.cs
-C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.ExpositoresPage.xaml.g.cs
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.FeedbackPage.xaml.g.cs
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.MainTabbedPage.xaml.g.cs
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.dll

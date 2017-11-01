@@ -14,7 +14,7 @@
         <TableView Intent="Form">
             <TableRoot>
                 <TableSection Title="Registro">
-                    <EntryCell Label="Email" x:Name="EntryEmail"></EntryCell>
+                    <EntryCell Label="Email" Keyboard="" x:Name="EntryEmail"></EntryCell>
                     <SwitchCell Text="Capturar" x:Name="SwitchSave"></SwitchCell>
                 </TableSection>
             </TableRoot>

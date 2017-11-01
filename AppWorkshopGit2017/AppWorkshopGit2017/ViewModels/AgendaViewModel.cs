@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AppWorkshopGit2017.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,15 +10,17 @@ namespace AppWorkshopGit2017.ViewModels
 {
     public class AgendaViewModel
     {
+        public List<ItemAgenda> _Agenda { get; set; }
+
         public AgendaViewModel()
         {
-            _Agenda = new List<Item>();
+            _Agenda = new List<ItemAgenda>();
             LoadAgenda();
         }
 
         private void LoadAgenda()
         {
-            _Agenda.Add(new Item
+            _Agenda.Add(new ItemAgenda
             {
                 Id="1",
                 Nombre = "Presentación",
@@ -25,7 +28,7 @@ namespace AppWorkshopGit2017.ViewModels
                 Hora = new TimeSpan(8, 0, 0),
                 Nivel = 0
             });
-            _Agenda.Add(new Item
+            _Agenda.Add(new ItemAgenda
             {
                 Id = "2",
                 Nombre = "Iniciando con Git",
@@ -33,15 +36,15 @@ namespace AppWorkshopGit2017.ViewModels
                 Hora = new TimeSpan(8, 30, 0),
                 Nivel = 0
             });
-            _Agenda.Add(new Item
+            _Agenda.Add(new ItemAgenda
             {
                 Id = "2.1",
-                Nombre = "Control de versiones",
+                Nombre = "Control de versiones Control de versiones Control de versiones Control de versiones Control de versiones Control de versiones Control de versiones Control de versiones Control de versiones",
                 Descripcion = "",
                 Hora = new TimeSpan(8, 30, 0),
                 Nivel = 1
             });
-            _Agenda.Add(new Item
+            _Agenda.Add(new ItemAgenda
             {
                 Id = "2.2",
                 Nombre = "Comandos básicos",
@@ -49,7 +52,7 @@ namespace AppWorkshopGit2017.ViewModels
                 Hora = new TimeSpan(8, 45, 0),
                 Nivel = 1
             });
-            _Agenda.Add(new Item
+            _Agenda.Add(new ItemAgenda
             {
                 Id = "2.2.1",
                 Nombre = "git init",
@@ -57,7 +60,7 @@ namespace AppWorkshopGit2017.ViewModels
                 Hora = new TimeSpan(8, 45, 0),
                 Nivel = 2
             });
-            _Agenda.Add(new Item
+            _Agenda.Add(new ItemAgenda
             {
                 Id = "3",
                 Nombre = "Receso",
@@ -65,7 +68,7 @@ namespace AppWorkshopGit2017.ViewModels
                 Hora = new TimeSpan(12, 0, 0),
                 Nivel = 0
             });
-            _Agenda.Add(new Item
+            _Agenda.Add(new ItemAgenda
             {
                 Id = "4",
                 Nombre = "Fin",
@@ -74,22 +77,6 @@ namespace AppWorkshopGit2017.ViewModels
                 Nivel = 0
             });
         }
-
-        public List<Item> _Agenda { get; set; }
     }
-    public class Item
-    {
-        public string Id { get; set; }
-        public string Nombre { get; set; }
-        public string Descripcion { get; set; }
-        public TimeSpan Hora { get; set; }
-        public int Nivel { get; set; }
-        public Thickness Padding
-        {
-            get
-            {
-                return new Thickness(Nivel * 10, 0, 0, 0);
-            }
-        }
-    }
+    
 }

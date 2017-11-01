@@ -1,4 +1,5 @@
-﻿using AppWorkshopGit2017.ViewModels;
+﻿using AppWorkshopGit2017.Models;
+using AppWorkshopGit2017.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,14 +27,17 @@ namespace AppWorkshopGit2017
             ListViewAgenda.ItemsSource = agenda._Agenda;
         }
 
-        private async void ListViewAgenda_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        private async void ListViewAgenda_ItemTapped(object sender, ItemTappedEventArgs e)
         {
-            if (e.SelectedItem != null)
+            if (e.Item != null)
             {
-                var element = e.SelectedItem as Item;
+                var element = e.Item as ItemAgenda;
                 if (!string.IsNullOrEmpty(element.Descripcion))
                     await DisplayAlert("Descripción", element.Descripcion, "Aceptar");
             }
+
+                // Quita la selección
+                ((ListView)sender).SelectedItem = null;
         }
     }
 }
