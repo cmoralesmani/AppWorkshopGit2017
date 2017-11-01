@@ -20,9 +20,8 @@ namespace AppWorkshopGit2017
             var email = txtEmail.Text;
             if (!string.IsNullOrEmpty(email))
             {
-                var homeViewModel = new HomeViewModel();
-                homeViewModel.Titulo = "Titulo de prueba";
-                this.Navigation.PushModalAsync(new HomePage(homeViewModel));
+                Intent intent = new Intent(this, new NavigationPage( new MainTabbedPage()));
+                intent.StartIntent();
             }
             else
             {

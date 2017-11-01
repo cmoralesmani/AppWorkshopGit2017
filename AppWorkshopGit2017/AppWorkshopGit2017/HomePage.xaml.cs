@@ -11,14 +11,19 @@ using Xamarin.Forms.Xaml;
 namespace AppWorkshopGit2017
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class HomePage : TabbedPage
+    public partial class HomePage : ContentPage
     {
-        public HomePage (HomeViewModel homeViewModel)
+        public HomePage()
         {
             InitializeComponent();
-            BindingContext = homeViewModel;
+        }
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
 
-            this.Children.Add(new AgendaPage());
+            //var intent = Intent.Navigation.Intent;
+            //var home = intent.GetObject<HomeViewModel>("home");
+            //BindingContext = home;
         }
     }
 }

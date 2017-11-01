@@ -13,7 +13,7 @@ namespace AppWorkshopGit2017 {
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Cesar Morales\\Documents\\Visual Studio 2017\\Projects\\AppWorkshopGit2017\\A" +
         "ppWorkshopGit2017\\AppWorkshopGit2017\\HomePage.xaml")]
-    public partial class HomePage : global::Xamarin.Forms.TabbedPage {
+    public partial class HomePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {

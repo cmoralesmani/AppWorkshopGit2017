@@ -26,10 +26,10 @@ C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Collections.dll
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.ComponentModel.dll
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Reflection.dll
-C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Collections.dll
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Globalization.dll
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Linq.Expressions.dll

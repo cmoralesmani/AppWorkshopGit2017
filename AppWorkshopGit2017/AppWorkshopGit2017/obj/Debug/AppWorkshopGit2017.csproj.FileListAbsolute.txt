@@ -16,3 +16,7 @@ C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.pdb
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.HomePage.xaml.g.cs
 C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.AgendaPage.xaml.g.cs
+C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.SuscritosPage.xaml.g.cs
+C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.ExpositoresPage.xaml.g.cs
+C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.FeedbackPage.xaml.g.cs
+C:\Users\Cesar Morales\Documents\Visual Studio 2017\Projects\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017\obj\Debug\AppWorkshopGit2017.MainTabbedPage.xaml.g.cs
