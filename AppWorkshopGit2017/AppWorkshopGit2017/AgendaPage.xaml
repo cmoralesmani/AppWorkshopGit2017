@@ -18,7 +18,7 @@
                             <RowDefinition Height="Auto"/>
                             <RowDefinition/>
                         </Grid.RowDefinitions>
-                        <Label Grid.Row="0" Grid.Column="0" Text="{Binding Id}" FontAttributes="Bold" VerticalOptions="Center" Rotation="-2"/>
+                        <Label Grid.Row="0" Grid.Column="0" Text="{Binding Titulo}" FontAttributes="Bold" VerticalOptions="Center" Rotation="-2"/>
                         <Label Grid.Row="0" Grid.Column="1" Text="{Binding Nombre}" FontAttributes="Bold" VerticalOptions="Center" LineBreakMode="WordWrap"/>
                         <StackLayout Grid.Row="1" Grid.Column="1" Orientation="Horizontal" Rotation="-1">
                             <Label Text="Hora:" VerticalOptions="Center"></Label>

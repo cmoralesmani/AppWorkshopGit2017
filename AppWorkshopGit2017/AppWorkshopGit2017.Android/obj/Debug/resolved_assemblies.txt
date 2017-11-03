@@ -1,6 +1,8 @@
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\AppWorkshopGit2017.Android.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\AppWorkshopGit2017.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\SQLite-net.dll
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\SQLitePCL.raw.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
@@ -23,12 +25,13 @@ C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
-C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Collections.dll
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.ObjectModel.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Linq.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Net.Primitives.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.IO.dll
@@ -40,7 +43,6 @@ C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Reflection.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
-C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Linq.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Text.RegularExpressions.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 C:\Users\cmorales\Downloads\AppWorkshopGit2017\AppWorkshopGit2017\AppWorkshopGit2017.Android\obj\Debug\android\assets\System.Text.Encoding.dll

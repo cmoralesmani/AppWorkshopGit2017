@@ -17,18 +17,20 @@ namespace AppWorkshopGit2017.ViewModels
         public AgendaViewModel()
         {
             _Agenda = new List<ItemAgenda>();
-            Device.BeginInvokeOnMainThread(() =>
+
+            var info = App.DB.Info.ToList().Where(i => i.Tipo == "AGEN");
+            foreach(var i in info)
             {
-                RestClient cliente = new RestClient();
-                var result = cliente.Get<RootObject>("http://localhost:58300/api/values");
-                if (result != null)
+                _Agenda.Add(new ItemAgenda
                 {
-                    _Agenda.Add(new ItemAgenda
-                    {
-                    });
-                }
-            });
+                    Titulo = i.Titulo,
+                    Nombre = i.Nombre,
+                    Descripcion = i.Descripcion,
+                    Nivel = i.Nivel,
+                    Hora = i.Hora
+                });
+            }
         }
     }
-    
+
 }

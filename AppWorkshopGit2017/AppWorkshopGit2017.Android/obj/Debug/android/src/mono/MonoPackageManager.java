@@ -101,6 +101,8 @@ class MonoPackageManager_Resources {
 		"AppWorkshopGit2017.Android.dll",
 		"AppWorkshopGit2017.dll",
 		"FormsViewGroup.dll",
+		"SQLite-net.dll",
+		"SQLitePCL.raw.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
